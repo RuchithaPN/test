@@ -1,0 +1,39 @@
+{
+  "signupUsers": [
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 1
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 2
+    },
+    {
+      "fullname": "g",
+      "email": "ruchithangowda2@gmail.com",
+      "password": "1234",
+      "mobile": 8431007244,
+      "id": 3
+    },
+    {
+      "fullname": "Gomathi",
+      "email": "ruchithangowda2@gmail.com",
+      "password": "123456",
+      "mobile": 8431007244,
+      "id": 4
+    },
+    {
+      "fullname": "Shrunga",
+      "email": "shru@gmail.com",
+      "password": "12345678",
+      "mobile": 9900889988,
+      "id": 5
+    }
+  ]
+}
